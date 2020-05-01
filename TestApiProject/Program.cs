@@ -14,9 +14,6 @@ namespace TestApiProject
         public static void Main(string[] args)
         {
 
-            //test
-
-            //test
             CreateHostBuilder(args).Build().Run();
         }
 
